@@ -1,3 +1,4 @@
+# liczenie pensji 
 py
 def computepay(hours, rate):
     
@@ -16,3 +17,6 @@ rate = float(input("Enter Rate per Hour: "))
 gross_pay = computepay(hours, rate)
 
 print("Pay", gross_pay)
+
+------------------------------------------------------------------------------------------
+
